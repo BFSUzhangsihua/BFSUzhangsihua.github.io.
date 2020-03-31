@@ -1,0 +1,27 @@
+#header {
+    background-image: url(images/background.jpg);
+    color:rgb(7, 0, 0);
+    text-align:center;
+    padding:10px;
+    font-weight: 200; font-family: STHeiti; font-style: oblique;
+}
+#nav {
+    background-image: url(images/background.jpg);
+    line-height:30px;
+    height:2650px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    float:left;
+    width:700px;
+    padding:10px;	 	 
+}
+#footer {
+    background-image: url(images/background.jpg);
+    color:rgb(7, 0, 0);
+    clear:both;
+    text-align:right;
+    padding:5px;	 	 
+}
